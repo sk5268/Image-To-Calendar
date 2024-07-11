@@ -14,15 +14,18 @@ Now I just have to take a picture and upload it, the script will take care of th
 
 # Requirements 
 
-    Python 3.7+: Ensure you have Python 3.7 or later installed on your system.
+https://console.cloud.google.com/apis/dashboard
+https://developers.google.com/calendar/api/guides/overview
 
-    Google Calendar API and OAuth 2.0 Setup:
-        Follow the instructions here to set up a project in the Google Developers Console.
-        Enable the Google Calendar API for your project.
-        Download the credentials.json file and place it in the same directory as your script.
+## Google Calendar API and OAuth 2.0 Setup:
+1. Follow the instructions above to set up a project in the Google Developers Console.
+2. Enable the Google Calendar API for your project.
+3. Download the credentials.json file and place it in the same directory as your script.
 
-    OCR.Space API Key:
-        Sign up at OCR.Space to get an API key.
-        Replace 'your_ocr_api_key_here' in the ocr_space_file function with your actual API key.
+## OCR.Space API Key:
 
-    Required Python Packages:
+1. Sign up at OCR.Space to get an API key.
+2. Replace 'your_ocr_api_key_here' in the ocr_space_file function with your actual API key.
+
+## Python Packages:
+`pip install -r requirements.txt`
