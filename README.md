@@ -32,3 +32,8 @@ https://developers.google.com/calendar/api/guides/overview
 
 Run the script. \
 For the rest, you guys are smart enough to understand it.
+
+# Note:
+After a lot of experimentation, I found ExtractTable OCR to work best for tabular data. \
+Also offers APIs to integrate easily into python. \
+https://www.extracttable.com/
