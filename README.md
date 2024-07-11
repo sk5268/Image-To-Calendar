@@ -14,7 +14,7 @@ Now I just have to take a picture and upload it, the script will take care of th
 
 # Requirements 
 
-https://console.cloud.google.com/apis/dashboard
+https://console.cloud.google.com/apis/dashboard    \
 https://developers.google.com/calendar/api/guides/overview
 
 ## Google Calendar API and OAuth 2.0 Setup:
@@ -29,3 +29,6 @@ https://developers.google.com/calendar/api/guides/overview
 
 ## Python Packages:
 `pip install -r requirements.txt`
+
+Run the script. \
+For the rest, you guys are smart enough to understand it.
