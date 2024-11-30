@@ -1,6 +1,8 @@
 # Demo
 
-![](Zener.m4v)
+<video>
+<source src="https://github.com/sk5268/Image-To-Calendar/blob/main/Zener.m4v" type="video/mp4">
+</video>
 
 # Image-To-Calendar
 Upload a timetable image and add your schedule to Google Calendar
