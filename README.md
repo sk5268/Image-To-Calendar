@@ -1,13 +1,12 @@
 # Demo
 
-<video>
-<source src="https://github.com/sk5268/Image-To-Calendar/blob/main/Zener.m4v" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/40f472a0-cbb7-4879-ae7c-44d4ddac7e7d
 
 # Image-To-Calendar
 Upload a timetable image and add your schedule to Google Calendar
 
 # Background
+
 We were given our semester time table in a piece of paper.
 IN 2024 !! WHO ARE WE KIDDING ??
 
