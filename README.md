@@ -2,6 +2,9 @@
 
 https://github.com/user-attachments/assets/40f472a0-cbb7-4879-ae7c-44d4ddac7e7d
 
+test:
+![Video Demo](./Zener.m4v)
+
 # Image-To-Calendar
 Upload a timetable image and add your schedule to Google Calendar
 
